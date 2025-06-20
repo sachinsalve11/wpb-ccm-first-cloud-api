@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.hsbc.cloud.api.controller;
 
 import org.springframework.web.bind.annotation.*;
 
