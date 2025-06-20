@@ -10,4 +10,5 @@ public class AdditionController {
     public int add(@RequestParam int a, @RequestParam int b) {
         return a + b;
     }
+
 }
